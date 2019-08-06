@@ -32,6 +32,5 @@ def fourth_challenge
    }
 }
 
-ß
 
 end
